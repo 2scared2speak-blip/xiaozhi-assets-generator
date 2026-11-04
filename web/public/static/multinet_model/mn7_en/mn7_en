@@ -1,0 +1,6 @@
+Chip:       ESP32-S3
+Mode:       Custom Wake Word / MultiNet
+Model:      mn7_en
+Command:    hey spooky
+Threshold:  20
+Duration:   3000
