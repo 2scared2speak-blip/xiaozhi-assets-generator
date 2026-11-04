@@ -3,3 +3,5 @@ node_modules/
 spiffs_assets/
 package-lock.json
 dist/
+# Keep web dependency lockfile for reproducible CI
+!web/package-lock.json
