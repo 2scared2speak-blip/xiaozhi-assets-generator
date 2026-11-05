@@ -5,3 +5,9 @@ package-lock.json
 dist/
 # Keep web dependency lockfile for reproducible CI
 !web/package-lock.json
+
+test-output/
+
+test-output/
+
+test-output/
